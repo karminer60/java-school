@@ -50,6 +50,7 @@ public class CourseController
             HttpStatus.OK);
     }
 
+
     /**
      * Returns a single course based off a course id number
      * <br>Example: <a href="http://localhost:2019/courses/course/7">http://localhost:2019/courses/course/7</a>
